@@ -1,0 +1,8 @@
+backend/venv/
+
+# IDE
+.idea/
+.vscode/
+
+# Data
+*.csv
